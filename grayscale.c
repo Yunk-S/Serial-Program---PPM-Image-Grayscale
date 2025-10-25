@@ -1,6 +1,4 @@
 /*
- * DTS202 Group-EE Coursework -- Grayscale PPM Converter （Serial）
- *
  * This program converts a color PPM image (P3 format) to grayscale.
  * It is designed to be robust, handling comments and varied whitespace in the PPM header. 
  * It uses buffered I/O and a lookup table for efficient processing.
